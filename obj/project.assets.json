@@ -4674,11 +4674,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ola/Downloads/LoadingAPIFinished/LoadingAPI.csproj",
+      "projectUniqueName": "/Users/ola/Downloads/LoadingAPIFinished-1/LoadingAPI.csproj",
       "projectName": "LoadingAPI",
-      "projectPath": "/Users/ola/Downloads/LoadingAPIFinished/LoadingAPI.csproj",
+      "projectPath": "/Users/ola/Downloads/LoadingAPIFinished-1/LoadingAPI.csproj",
       "packagesPath": "/Users/ola/.nuget/packages/",
-      "outputPath": "/Users/ola/Downloads/LoadingAPIFinished/obj/",
+      "outputPath": "/Users/ola/Downloads/LoadingAPIFinished-1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ola/.nuget/NuGet/NuGet.Config"

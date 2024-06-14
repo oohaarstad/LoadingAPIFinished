@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "78WJV5dMva1WdWPxihfBqdBnZUBbjKd3ohREyHjRVo8=",
+  "Hash": "Tgq5M+VinFiAS3nrec3zfpB33Uja6Hksv+Mo9a/lfl4=",
   "Source": "LoadingAPI",
   "BasePath": "_content/LoadingAPI",
   "Mode": "Default",
@@ -8,19 +8,19 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "LoadingAPI\\wwwroot",
+      "Name": "LoadingAPI/wwwroot",
       "Source": "LoadingAPI",
-      "ContentRoot": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\",
+      "ContentRoot": "/Users/ola/Downloads/LoadingAPIFinished-1/wwwroot/",
       "BasePath": "_content/LoadingAPI",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\create\\index.html",
+      "Identity": "/Users/ola/Downloads/LoadingAPIFinished-1/wwwroot/create/index.html",
       "SourceId": "LoadingAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\",
+      "ContentRoot": "/Users/ola/Downloads/LoadingAPIFinished-1/wwwroot/",
       "BasePath": "_content/LoadingAPI",
       "RelativePath": "create/index.html",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\create\\index.html"
+      "OriginalItemSpec": "wwwroot/create/index.html"
     },
     {
-      "Identity": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\create\\Jockey_One\\JockeyOne-Regular.ttf",
+      "Identity": "/Users/ola/Downloads/LoadingAPIFinished-1/wwwroot/create/Jockey_One/JockeyOne-Regular.ttf",
       "SourceId": "LoadingAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\",
+      "ContentRoot": "/Users/ola/Downloads/LoadingAPIFinished-1/wwwroot/",
       "BasePath": "_content/LoadingAPI",
       "RelativePath": "create/Jockey_One/JockeyOne-Regular.ttf",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\create\\Jockey_One\\JockeyOne-Regular.ttf"
+      "OriginalItemSpec": "wwwroot/create/Jockey_One/JockeyOne-Regular.ttf"
     },
     {
-      "Identity": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\create\\Jockey_One\\OFL.txt",
+      "Identity": "/Users/ola/Downloads/LoadingAPIFinished-1/wwwroot/create/Jockey_One/OFL.txt",
       "SourceId": "LoadingAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\",
+      "ContentRoot": "/Users/ola/Downloads/LoadingAPIFinished-1/wwwroot/",
       "BasePath": "_content/LoadingAPI",
       "RelativePath": "create/Jockey_One/OFL.txt",
       "AssetKind": "All",
@@ -71,13 +71,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\create\\Jockey_One\\OFL.txt"
+      "OriginalItemSpec": "wwwroot/create/Jockey_One/OFL.txt"
     },
     {
-      "Identity": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\create\\script.js",
+      "Identity": "/Users/ola/Downloads/LoadingAPIFinished-1/wwwroot/create/script.js",
       "SourceId": "LoadingAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\",
+      "ContentRoot": "/Users/ola/Downloads/LoadingAPIFinished-1/wwwroot/",
       "BasePath": "_content/LoadingAPI",
       "RelativePath": "create/script.js",
       "AssetKind": "All",
@@ -90,13 +90,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\create\\script.js"
+      "OriginalItemSpec": "wwwroot/create/script.js"
     },
     {
-      "Identity": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\create\\styles.css",
+      "Identity": "/Users/ola/Downloads/LoadingAPIFinished-1/wwwroot/create/styles.css",
       "SourceId": "LoadingAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\",
+      "ContentRoot": "/Users/ola/Downloads/LoadingAPIFinished-1/wwwroot/",
       "BasePath": "_content/LoadingAPI",
       "RelativePath": "create/styles.css",
       "AssetKind": "All",
@@ -109,13 +109,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\create\\styles.css"
+      "OriginalItemSpec": "wwwroot/create/styles.css"
     },
     {
-      "Identity": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\host\\index.html",
+      "Identity": "/Users/ola/Downloads/LoadingAPIFinished-1/wwwroot/host/index.html",
       "SourceId": "LoadingAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\",
+      "ContentRoot": "/Users/ola/Downloads/LoadingAPIFinished-1/wwwroot/",
       "BasePath": "_content/LoadingAPI",
       "RelativePath": "host/index.html",
       "AssetKind": "All",
@@ -128,13 +128,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\host\\index.html"
+      "OriginalItemSpec": "wwwroot/host/index.html"
     },
     {
-      "Identity": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\host\\Jockey_One\\JockeyOne-Regular.ttf",
+      "Identity": "/Users/ola/Downloads/LoadingAPIFinished-1/wwwroot/host/Jockey_One/JockeyOne-Regular.ttf",
       "SourceId": "LoadingAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\",
+      "ContentRoot": "/Users/ola/Downloads/LoadingAPIFinished-1/wwwroot/",
       "BasePath": "_content/LoadingAPI",
       "RelativePath": "host/Jockey_One/JockeyOne-Regular.ttf",
       "AssetKind": "All",
@@ -147,13 +147,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\host\\Jockey_One\\JockeyOne-Regular.ttf"
+      "OriginalItemSpec": "wwwroot/host/Jockey_One/JockeyOne-Regular.ttf"
     },
     {
-      "Identity": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\host\\Jockey_One\\OFL.txt",
+      "Identity": "/Users/ola/Downloads/LoadingAPIFinished-1/wwwroot/host/Jockey_One/OFL.txt",
       "SourceId": "LoadingAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\",
+      "ContentRoot": "/Users/ola/Downloads/LoadingAPIFinished-1/wwwroot/",
       "BasePath": "_content/LoadingAPI",
       "RelativePath": "host/Jockey_One/OFL.txt",
       "AssetKind": "All",
@@ -166,13 +166,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\host\\Jockey_One\\OFL.txt"
+      "OriginalItemSpec": "wwwroot/host/Jockey_One/OFL.txt"
     },
     {
-      "Identity": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\host\\script.js",
+      "Identity": "/Users/ola/Downloads/LoadingAPIFinished-1/wwwroot/host/script.js",
       "SourceId": "LoadingAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\",
+      "ContentRoot": "/Users/ola/Downloads/LoadingAPIFinished-1/wwwroot/",
       "BasePath": "_content/LoadingAPI",
       "RelativePath": "host/script.js",
       "AssetKind": "All",
@@ -185,13 +185,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\host\\script.js"
+      "OriginalItemSpec": "wwwroot/host/script.js"
     },
     {
-      "Identity": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\host\\styles.css",
+      "Identity": "/Users/ola/Downloads/LoadingAPIFinished-1/wwwroot/host/styles.css",
       "SourceId": "LoadingAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\",
+      "ContentRoot": "/Users/ola/Downloads/LoadingAPIFinished-1/wwwroot/",
       "BasePath": "_content/LoadingAPI",
       "RelativePath": "host/styles.css",
       "AssetKind": "All",
@@ -204,13 +204,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\host\\styles.css"
+      "OriginalItemSpec": "wwwroot/host/styles.css"
     },
     {
-      "Identity": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\images\\AskeladdenGameBoyStyle1.png",
+      "Identity": "/Users/ola/Downloads/LoadingAPIFinished-1/wwwroot/images/AskeladdenGameBoyStyle1.png",
       "SourceId": "LoadingAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\",
+      "ContentRoot": "/Users/ola/Downloads/LoadingAPIFinished-1/wwwroot/",
       "BasePath": "_content/LoadingAPI",
       "RelativePath": "images/AskeladdenGameBoyStyle1.png",
       "AssetKind": "All",
@@ -223,13 +223,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\AskeladdenGameBoyStyle1.png"
+      "OriginalItemSpec": "wwwroot/images/AskeladdenGameBoyStyle1.png"
     },
     {
-      "Identity": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\images\\qrCode.png",
+      "Identity": "/Users/ola/Downloads/LoadingAPIFinished-1/wwwroot/images/qrCode.png",
       "SourceId": "LoadingAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\",
+      "ContentRoot": "/Users/ola/Downloads/LoadingAPIFinished-1/wwwroot/",
       "BasePath": "_content/LoadingAPI",
       "RelativePath": "images/qrCode.png",
       "AssetKind": "All",
@@ -242,13 +242,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\qrCode.png"
+      "OriginalItemSpec": "wwwroot/images/qrCode.png"
     },
     {
-      "Identity": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\Jockey_One\\JockeyOne-Regular.ttf",
+      "Identity": "/Users/ola/Downloads/LoadingAPIFinished-1/wwwroot/Jockey_One/JockeyOne-Regular.ttf",
       "SourceId": "LoadingAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\",
+      "ContentRoot": "/Users/ola/Downloads/LoadingAPIFinished-1/wwwroot/",
       "BasePath": "_content/LoadingAPI",
       "RelativePath": "Jockey_One/JockeyOne-Regular.ttf",
       "AssetKind": "All",
@@ -261,13 +261,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Jockey_One\\JockeyOne-Regular.ttf"
+      "OriginalItemSpec": "wwwroot/Jockey_One/JockeyOne-Regular.ttf"
     },
     {
-      "Identity": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\Jockey_One\\OFL.txt",
+      "Identity": "/Users/ola/Downloads/LoadingAPIFinished-1/wwwroot/Jockey_One/OFL.txt",
       "SourceId": "LoadingAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\",
+      "ContentRoot": "/Users/ola/Downloads/LoadingAPIFinished-1/wwwroot/",
       "BasePath": "_content/LoadingAPI",
       "RelativePath": "Jockey_One/OFL.txt",
       "AssetKind": "All",
@@ -280,13 +280,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Jockey_One\\OFL.txt"
+      "OriginalItemSpec": "wwwroot/Jockey_One/OFL.txt"
     },
     {
-      "Identity": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\join.html",
+      "Identity": "/Users/ola/Downloads/LoadingAPIFinished-1/wwwroot/join.html",
       "SourceId": "LoadingAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\",
+      "ContentRoot": "/Users/ola/Downloads/LoadingAPIFinished-1/wwwroot/",
       "BasePath": "_content/LoadingAPI",
       "RelativePath": "join.html",
       "AssetKind": "All",
@@ -299,13 +299,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\join.html"
+      "OriginalItemSpec": "wwwroot/join.html"
     },
     {
-      "Identity": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\joinscript.js",
+      "Identity": "/Users/ola/Downloads/LoadingAPIFinished-1/wwwroot/joinscript.js",
       "SourceId": "LoadingAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\",
+      "ContentRoot": "/Users/ola/Downloads/LoadingAPIFinished-1/wwwroot/",
       "BasePath": "_content/LoadingAPI",
       "RelativePath": "joinscript.js",
       "AssetKind": "All",
@@ -318,13 +318,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\joinscript.js"
+      "OriginalItemSpec": "wwwroot/joinscript.js"
     },
     {
-      "Identity": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\joinstyles.css",
+      "Identity": "/Users/ola/Downloads/LoadingAPIFinished-1/wwwroot/joinstyles.css",
       "SourceId": "LoadingAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\",
+      "ContentRoot": "/Users/ola/Downloads/LoadingAPIFinished-1/wwwroot/",
       "BasePath": "_content/LoadingAPI",
       "RelativePath": "joinstyles.css",
       "AssetKind": "All",
@@ -337,13 +337,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\joinstyles.css"
+      "OriginalItemSpec": "wwwroot/joinstyles.css"
     },
     {
-      "Identity": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\session\\bigscreen.html",
+      "Identity": "/Users/ola/Downloads/LoadingAPIFinished-1/wwwroot/session/bigscreen.html",
       "SourceId": "LoadingAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\",
+      "ContentRoot": "/Users/ola/Downloads/LoadingAPIFinished-1/wwwroot/",
       "BasePath": "_content/LoadingAPI",
       "RelativePath": "session/bigscreen.html",
       "AssetKind": "All",
@@ -356,13 +356,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\session\\bigscreen.html"
+      "OriginalItemSpec": "wwwroot/session/bigscreen.html"
     },
     {
-      "Identity": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\session\\bigscreenscript.js",
+      "Identity": "/Users/ola/Downloads/LoadingAPIFinished-1/wwwroot/session/bigscreenscript.js",
       "SourceId": "LoadingAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\",
+      "ContentRoot": "/Users/ola/Downloads/LoadingAPIFinished-1/wwwroot/",
       "BasePath": "_content/LoadingAPI",
       "RelativePath": "session/bigscreenscript.js",
       "AssetKind": "All",
@@ -375,13 +375,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\session\\bigscreenscript.js"
+      "OriginalItemSpec": "wwwroot/session/bigscreenscript.js"
     },
     {
-      "Identity": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\session\\bigscreenstyles.css",
+      "Identity": "/Users/ola/Downloads/LoadingAPIFinished-1/wwwroot/session/bigscreenstyles.css",
       "SourceId": "LoadingAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\",
+      "ContentRoot": "/Users/ola/Downloads/LoadingAPIFinished-1/wwwroot/",
       "BasePath": "_content/LoadingAPI",
       "RelativePath": "session/bigscreenstyles.css",
       "AssetKind": "All",
@@ -394,13 +394,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\session\\bigscreenstyles.css"
+      "OriginalItemSpec": "wwwroot/session/bigscreenstyles.css"
     },
     {
-      "Identity": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\session\\index.html",
+      "Identity": "/Users/ola/Downloads/LoadingAPIFinished-1/wwwroot/session/index.html",
       "SourceId": "LoadingAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\",
+      "ContentRoot": "/Users/ola/Downloads/LoadingAPIFinished-1/wwwroot/",
       "BasePath": "_content/LoadingAPI",
       "RelativePath": "session/index.html",
       "AssetKind": "All",
@@ -413,13 +413,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\session\\index.html"
+      "OriginalItemSpec": "wwwroot/session/index.html"
     },
     {
-      "Identity": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\session\\Jockey_One\\JockeyOne-Regular.ttf",
+      "Identity": "/Users/ola/Downloads/LoadingAPIFinished-1/wwwroot/session/Jockey_One/JockeyOne-Regular.ttf",
       "SourceId": "LoadingAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\",
+      "ContentRoot": "/Users/ola/Downloads/LoadingAPIFinished-1/wwwroot/",
       "BasePath": "_content/LoadingAPI",
       "RelativePath": "session/Jockey_One/JockeyOne-Regular.ttf",
       "AssetKind": "All",
@@ -432,13 +432,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\session\\Jockey_One\\JockeyOne-Regular.ttf"
+      "OriginalItemSpec": "wwwroot/session/Jockey_One/JockeyOne-Regular.ttf"
     },
     {
-      "Identity": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\session\\Jockey_One\\OFL.txt",
+      "Identity": "/Users/ola/Downloads/LoadingAPIFinished-1/wwwroot/session/Jockey_One/OFL.txt",
       "SourceId": "LoadingAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\",
+      "ContentRoot": "/Users/ola/Downloads/LoadingAPIFinished-1/wwwroot/",
       "BasePath": "_content/LoadingAPI",
       "RelativePath": "session/Jockey_One/OFL.txt",
       "AssetKind": "All",
@@ -451,13 +451,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\session\\Jockey_One\\OFL.txt"
+      "OriginalItemSpec": "wwwroot/session/Jockey_One/OFL.txt"
     },
     {
-      "Identity": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\session\\script.js",
+      "Identity": "/Users/ola/Downloads/LoadingAPIFinished-1/wwwroot/session/script.js",
       "SourceId": "LoadingAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\",
+      "ContentRoot": "/Users/ola/Downloads/LoadingAPIFinished-1/wwwroot/",
       "BasePath": "_content/LoadingAPI",
       "RelativePath": "session/script.js",
       "AssetKind": "All",
@@ -470,13 +470,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\session\\script.js"
+      "OriginalItemSpec": "wwwroot/session/script.js"
     },
     {
-      "Identity": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\session\\styles.css",
+      "Identity": "/Users/ola/Downloads/LoadingAPIFinished-1/wwwroot/session/styles.css",
       "SourceId": "LoadingAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\",
+      "ContentRoot": "/Users/ola/Downloads/LoadingAPIFinished-1/wwwroot/",
       "BasePath": "_content/LoadingAPI",
       "RelativePath": "session/styles.css",
       "AssetKind": "All",
@@ -489,13 +489,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\session\\styles.css"
+      "OriginalItemSpec": "wwwroot/session/styles.css"
     },
     {
-      "Identity": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\user\\Jockey_One\\JockeyOne-Regular.ttf",
+      "Identity": "/Users/ola/Downloads/LoadingAPIFinished-1/wwwroot/user/Jockey_One/JockeyOne-Regular.ttf",
       "SourceId": "LoadingAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\",
+      "ContentRoot": "/Users/ola/Downloads/LoadingAPIFinished-1/wwwroot/",
       "BasePath": "_content/LoadingAPI",
       "RelativePath": "user/Jockey_One/JockeyOne-Regular.ttf",
       "AssetKind": "All",
@@ -508,13 +508,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\user\\Jockey_One\\JockeyOne-Regular.ttf"
+      "OriginalItemSpec": "wwwroot/user/Jockey_One/JockeyOne-Regular.ttf"
     },
     {
-      "Identity": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\user\\Jockey_One\\OFL.txt",
+      "Identity": "/Users/ola/Downloads/LoadingAPIFinished-1/wwwroot/user/Jockey_One/OFL.txt",
       "SourceId": "LoadingAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\",
+      "ContentRoot": "/Users/ola/Downloads/LoadingAPIFinished-1/wwwroot/",
       "BasePath": "_content/LoadingAPI",
       "RelativePath": "user/Jockey_One/OFL.txt",
       "AssetKind": "All",
@@ -527,13 +527,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\user\\Jockey_One\\OFL.txt"
+      "OriginalItemSpec": "wwwroot/user/Jockey_One/OFL.txt"
     },
     {
-      "Identity": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\user\\review.css",
+      "Identity": "/Users/ola/Downloads/LoadingAPIFinished-1/wwwroot/user/review.css",
       "SourceId": "LoadingAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\",
+      "ContentRoot": "/Users/ola/Downloads/LoadingAPIFinished-1/wwwroot/",
       "BasePath": "_content/LoadingAPI",
       "RelativePath": "user/review.css",
       "AssetKind": "All",
@@ -546,13 +546,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\user\\review.css"
+      "OriginalItemSpec": "wwwroot/user/review.css"
     },
     {
-      "Identity": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\user\\review.html",
+      "Identity": "/Users/ola/Downloads/LoadingAPIFinished-1/wwwroot/user/review.html",
       "SourceId": "LoadingAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\",
+      "ContentRoot": "/Users/ola/Downloads/LoadingAPIFinished-1/wwwroot/",
       "BasePath": "_content/LoadingAPI",
       "RelativePath": "user/review.html",
       "AssetKind": "All",
@@ -565,13 +565,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\user\\review.html"
+      "OriginalItemSpec": "wwwroot/user/review.html"
     },
     {
-      "Identity": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\user\\review.js",
+      "Identity": "/Users/ola/Downloads/LoadingAPIFinished-1/wwwroot/user/review.js",
       "SourceId": "LoadingAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\",
+      "ContentRoot": "/Users/ola/Downloads/LoadingAPIFinished-1/wwwroot/",
       "BasePath": "_content/LoadingAPI",
       "RelativePath": "user/review.js",
       "AssetKind": "All",
@@ -584,7 +584,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\user\\review.js"
+      "OriginalItemSpec": "wwwroot/user/review.js"
     }
   ]
 }

@@ -13,7 +13,7 @@ document.getElementById('joinForm').addEventListener('submit', function(event) {
     // Simulerer en sjekk på gyldig sesjonskode (kan utvides med API-kall for validering)
     setTimeout(() => {
         document.getElementById('loading').classList.remove('active');
-        window.location.href = `/wwwroot/session/index.html?sessionId=${sessionId}&userId=${userId}`; // Omadresserer brukeren til sesjonssiden
+        window.location.href = `/session/index.html?sessionId=${sessionId}&userId=${userId}`; // Omadresserer brukeren til sesjonssiden
     }, 1000); // Simulert forsinkelse
 });
 
