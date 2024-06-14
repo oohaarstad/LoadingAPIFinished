@@ -1,0 +1,171 @@
+/* Styling for lastemeldingen */
+.loading {
+    display: none;
+}
+.loading.active {
+    display: block;
+}
+
+/* Skjul game over-div når den ikke er aktiv */
+
+
+@font-face {
+    font-family: jockeyOne;
+    src: url(Jockey_One/JockeyOne-Regular.ttf);
+}
+
+html {
+    width: 100%;
+    background-color: white;
+
+}
+
+body {
+    
+    margin: auto;
+    width: 844px;
+    height: 390px;
+    background-image: url(/wwwroot/images/AskeladdenGameBoyStyle1.png);
+    border-radius: 20px;
+}
+
+
+#topSection {
+    width: 100%;
+    height: 190px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#logo {
+
+    padding: 0px;
+    margin: 0px;
+    width: 350px;
+    height: 110px;
+    display: flex;
+    justify-content: center;
+    font-family: jockeyOne;
+    font-size: 45px;
+    color: white;
+    -webkit-text-stroke: 1.5px;
+    -webkit-text-stroke-color: black;
+
+}
+
+#vote {
+
+    padding: 0px;
+    margin-top: -55px;
+    width: 145px;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    font-family: jockeyOne;
+    font-size: 30px;
+    color: white;
+    -webkit-text-stroke: 1.2px;
+    -webkit-text-stroke-color: black;
+    
+}
+
+#dataDiv {
+
+    margin: auto;
+    margin-top: -90px;
+    width: 500px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(255, 255, 255);
+    border-radius: 30px;
+    border: solid 3px black;
+    
+
+}
+
+.data {
+
+    color: rgb(0, 0, 0);
+    font-family: jockeyOne;
+    font-size: 25px;
+    text-align: center;
+
+}
+
+#options {
+
+    width: 100%;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.optionBtn {
+
+    text-align: center;
+    margin-top: 10px;
+    height: 90px;
+    width: 180px;
+    border: 4px solid black;
+    border-radius: 25px;
+    background-color: rgb(255, 0, 0);
+    color: white;
+    font-size: 25px;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    
+}
+
+#countdown {
+
+    margin: auto;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    text-align: center;
+    font-size: 30px;
+    color: red;
+    -webkit-text-stroke: 0.5px;
+    -webkit-text-stroke-color: rgb(0, 0, 0);
+    background-color: rgba(255, 255, 255, 0.897);    
+    border-radius: 10px;
+
+
+}
+
+#gameOver {
+    display: none;
+    width: 844px;
+}
+
+#gameOverH {
+
+    display: flex;
+    justify-content: center;
+    margin-top: 0px;
+    font-size: 60px;
+    font-family: jockeyOne;
+    color: red;
+}
+
+#reviewBtn{
+
+    background-color: rgb(251, 255, 0);
+    border: solid black 2px;
+    height: 30px;
+    width: 80px;
+    border-radius: 25px;
+    text-align: center;
+    position: relative;
+    left:382px;
+    bottom: 48px;
+    font-family: jockeyOne;
+
+}

@@ -1,0 +1,95 @@
+/* Enkel styling for lastemeldingen */
+.loading {
+    display: none;
+}
+.loading.active {
+    display: block;
+}
+
+@font-face {
+    font-family: jockeyOne;
+    src: url(Jockey_One/JockeyOne-Regular.ttf);
+}
+
+html {
+    width: 100%;
+    background-color: white;
+
+}
+
+body {
+    
+    margin: auto;
+    width: 844px;
+    height: 390px;
+    background-image: url(images/AskeladdenGameBoyStyle1.png);
+    border-radius: 20px;
+}
+
+#header {
+
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+}
+
+#joinForm{
+    
+    
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+
+h2 {
+
+    font-size: 100px;
+    font-family: jockeyOne;
+    width: 350px;
+    height: 110px;
+    color: white;
+    -webkit-text-stroke: 3px;
+    -webkit-text-stroke-color: black;
+
+}
+
+#inputSection {
+
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+input {
+
+    text-align: center;
+    height: 70px;
+    width: 210px;
+    border: solid 6px black;
+    border-radius: 20px;
+    margin-top: 50px;
+    font-size: 35px;
+    font-family: jockeyOne;
+
+}
+
+button {
+
+    height: 100px;
+    width: 270px;
+    border-radius: 25px;
+    color: white;
+    background-color: red;
+    -webkit-text-stroke: 3px black;
+    font-family: jockeyOne;
+    font-size: 55px; 
+    border: solid black 7px;
+    margin-top: 15px;
+    text-align: center;
+
+}

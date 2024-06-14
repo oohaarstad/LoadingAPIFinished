@@ -1,0 +1,159 @@
+/* Styling for QR-kode og andre elementer */
+
+@font-face {
+    font-family: jockeyOne;
+    src: url(Jockey_One/JockeyOne-Regular.ttf);
+}
+
+.loading {
+    display: none;
+}
+.loading.active {
+    display: block;
+}
+
+html {
+
+    background-color: black;
+
+}
+
+body {
+    
+    margin: auto;
+    width: 844px;
+    background-image: url(/wwwroot/images/AskeladdenGameBoyStyle1.png);
+    border-radius: 20px;
+}
+
+#cards {
+
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+#qrCard {
+
+    width: 200px;
+    height: 250px;
+    background-color: rgb(185, 200, 141, 100);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: solid black 10px;
+    border-radius: 20px;
+    
+
+}
+
+#qrcode {
+
+    margin-top: -30px;
+    width: 150px;
+    height: 150px;
+    
+
+}
+
+#sessionCard {
+
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    width: 200px;
+    height: 250px;
+    background-color: rgb(185, 200, 141, 100);
+    border: solid black 10px;
+    border-radius: 20px;
+
+}
+
+h2 {
+
+    margin-top: 10px;
+    font-family: jockeyOne;
+    font-size: 45px;
+    text-align: center;
+    color: white;
+    -webkit-text-stroke: 1px;
+    -webkit-text-stroke-color: black;
+
+}
+
+#sessionCode {
+
+    text-align: center;
+    margin-top: -35px;
+    font-family: jockeyOne;
+    font-size: 55px;
+    color: white;
+    -webkit-text-stroke: 2px;
+    -webkit-text-stroke-color: black;
+    border-bottom:8px dashed;
+    
+
+}
+
+#url {
+
+    text-align: center;
+    margin-top: 5px;
+
+}
+
+#dataSection {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+
+}
+
+.data {
+    
+    font-size: 25px;
+    color: white;
+    font-family: jockeyOne;
+    padding: 10px;
+
+}
+
+#results {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+h3 {
+
+    font-family: jockeyOne;
+    font-size: 45px;
+    text-align: center;
+    color: white;
+    -webkit-text-stroke: 1px;
+    -webkit-text-stroke-color: black;
+
+}
+
+.resultP {
+
+    color: white;
+    font-family: jockeyOne;
+    font-size: 25px;
+    border: 1px solid white;
+    margin-top: 0px;
+    padding: 10px;
+
+}
+
+
+
+

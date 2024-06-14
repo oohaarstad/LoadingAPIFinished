@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Host Page</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/3.1.18/signalr.min.js"></script>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <section id="topSection">
+        <h1 id="logo">LOADING</h1>
+        <h2 id="host">Host</h2>
+    </section>
+
+    <div id="labelDiv">
+        <label id="sessionLabel" for="session">Select Session:</label>
+    </div>
+
+    <div id="sessionDiv">
+        <select id="session">
+            <!-- Alternativer vil bli dynamisk fylt ut her -->
+        </select>
+    </div>
+
+    <div id="btnBox">
+        <button id="startSessionButton">Start Session</button>
+        <button id="nextStepButton">Next Step</button>
+    </div>
+
+    <div class="loading" id="loading">Please wait...</div>
+
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,58 @@
+@font-face {
+    font-family: jockeyOne;
+    src: url(Jockey_One/JockeyOne-Regular.ttf);
+}
+
+html {
+    width: 100%;
+    background-color: white;
+
+}
+
+body {
+    
+    margin: auto;
+    width: 844px;
+    height: 390px;
+    background-image: url(/wwwroot/images/AskeladdenGameBoyStyle1.png);
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+h1{
+
+    -webkit-text-stroke: 1px;
+    -webkit-text-stroke-color: rgb(0, 0, 0);
+    font-size: 40px;
+    font-family: jockeyOne;
+    color: white;
+}
+
+#label {
+
+    border: 1px solid black;
+    font-size: 15px;
+    background-color: white;
+    padding: 3px;
+
+}
+
+#text {
+
+    border: 1px solid black;
+
+}
+
+#submitReviewBtn {
+
+background-color: red;
+color: white;
+border: 1px solid black;
+position: relative;
+padding-top: 2px;
+
+}

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Big Screen</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/3.1.18/signalr.min.js"></script>
+    <link rel="stylesheet" href="bigscreenstyles.css">
+</head>
+<body>
+    <h1>.</h1>
+    <div id="cards">
+        <div id="qrCard">
+            <h2>Scan QR:</h2>
+            <div id="qrcode"></div>
+        </div>  
+
+        <div id="sessionCard">
+            <h2>Skriv inn koden:</h2>
+            <div id="sessionCode"></div>
+            <p id="url">www.loading.no</p>
+        </div>  
+        
+    </div>  
+
+    <div id="dataSection">
+        <div class="data" id="stepNumber"></div>
+        <div class="data" id="message"></div>
+        <div class="data" id="countdown"></div>
+        <div id="results"></div>
+    </div>
+
+    <script src="bigscreenscript.js"></script>
+</body>
+</html>

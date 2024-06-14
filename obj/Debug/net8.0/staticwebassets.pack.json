@@ -1,0 +1,141 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\Jockey_One\\JockeyOne-Regular.ttf",
+      "PackagePath": "staticwebassets\\Jockey_One\\JockeyOne-Regular.ttf"
+    },
+    {
+      "Id": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\Jockey_One\\OFL.txt",
+      "PackagePath": "staticwebassets\\Jockey_One\\OFL.txt"
+    },
+    {
+      "Id": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\create\\Jockey_One\\JockeyOne-Regular.ttf",
+      "PackagePath": "staticwebassets\\create\\Jockey_One\\JockeyOne-Regular.ttf"
+    },
+    {
+      "Id": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\create\\Jockey_One\\OFL.txt",
+      "PackagePath": "staticwebassets\\create\\Jockey_One\\OFL.txt"
+    },
+    {
+      "Id": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\create\\index.html",
+      "PackagePath": "staticwebassets\\create\\index.html"
+    },
+    {
+      "Id": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\create\\script.js",
+      "PackagePath": "staticwebassets\\create\\script.js"
+    },
+    {
+      "Id": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\create\\styles.css",
+      "PackagePath": "staticwebassets\\create\\styles.css"
+    },
+    {
+      "Id": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\host\\Jockey_One\\JockeyOne-Regular.ttf",
+      "PackagePath": "staticwebassets\\host\\Jockey_One\\JockeyOne-Regular.ttf"
+    },
+    {
+      "Id": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\host\\Jockey_One\\OFL.txt",
+      "PackagePath": "staticwebassets\\host\\Jockey_One\\OFL.txt"
+    },
+    {
+      "Id": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\host\\index.html",
+      "PackagePath": "staticwebassets\\host\\index.html"
+    },
+    {
+      "Id": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\host\\script.js",
+      "PackagePath": "staticwebassets\\host\\script.js"
+    },
+    {
+      "Id": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\host\\styles.css",
+      "PackagePath": "staticwebassets\\host\\styles.css"
+    },
+    {
+      "Id": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\images\\AskeladdenGameBoyStyle1.png",
+      "PackagePath": "staticwebassets\\images\\AskeladdenGameBoyStyle1.png"
+    },
+    {
+      "Id": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\images\\qrCode.png",
+      "PackagePath": "staticwebassets\\images\\qrCode.png"
+    },
+    {
+      "Id": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\join.html",
+      "PackagePath": "staticwebassets\\join.html"
+    },
+    {
+      "Id": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\joinscript.js",
+      "PackagePath": "staticwebassets\\joinscript.js"
+    },
+    {
+      "Id": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\joinstyles.css",
+      "PackagePath": "staticwebassets\\joinstyles.css"
+    },
+    {
+      "Id": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\session\\Jockey_One\\JockeyOne-Regular.ttf",
+      "PackagePath": "staticwebassets\\session\\Jockey_One\\JockeyOne-Regular.ttf"
+    },
+    {
+      "Id": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\session\\Jockey_One\\OFL.txt",
+      "PackagePath": "staticwebassets\\session\\Jockey_One\\OFL.txt"
+    },
+    {
+      "Id": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\session\\bigscreen.html",
+      "PackagePath": "staticwebassets\\session\\bigscreen.html"
+    },
+    {
+      "Id": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\session\\bigscreenscript.js",
+      "PackagePath": "staticwebassets\\session\\bigscreenscript.js"
+    },
+    {
+      "Id": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\session\\bigscreenstyles.css",
+      "PackagePath": "staticwebassets\\session\\bigscreenstyles.css"
+    },
+    {
+      "Id": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\session\\index.html",
+      "PackagePath": "staticwebassets\\session\\index.html"
+    },
+    {
+      "Id": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\session\\script.js",
+      "PackagePath": "staticwebassets\\session\\script.js"
+    },
+    {
+      "Id": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\session\\styles.css",
+      "PackagePath": "staticwebassets\\session\\styles.css"
+    },
+    {
+      "Id": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\user\\Jockey_One\\JockeyOne-Regular.ttf",
+      "PackagePath": "staticwebassets\\user\\Jockey_One\\JockeyOne-Regular.ttf"
+    },
+    {
+      "Id": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\user\\Jockey_One\\OFL.txt",
+      "PackagePath": "staticwebassets\\user\\Jockey_One\\OFL.txt"
+    },
+    {
+      "Id": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\user\\review.css",
+      "PackagePath": "staticwebassets\\user\\review.css"
+    },
+    {
+      "Id": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\user\\review.html",
+      "PackagePath": "staticwebassets\\user\\review.html"
+    },
+    {
+      "Id": "D:\\Users\\eirik\\Skole\\LoadingAPI-main\\LoadingAPI\\wwwroot\\user\\review.js",
+      "PackagePath": "staticwebassets\\user\\review.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.LoadingAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.LoadingAPI.props",
+      "PackagePath": "build\\LoadingAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.LoadingAPI.props",
+      "PackagePath": "buildMultiTargeting\\LoadingAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.LoadingAPI.props",
+      "PackagePath": "buildTransitive\\LoadingAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

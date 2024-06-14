@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Page</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/3.1.18/signalr.min.js"></script>
+</head>
+<body>
+
+    <section id="topSection">
+        <h1 id="logo">LOADING</h1>
+        <h2 id="vote">VOTE</h2>
+    </section>
+
+    <div id="dataDiv">
+        <div class="data" id="stepNumber"></div>
+        <div class="data" id="question"></div>
+    </div>
+    
+    <div id="options"></div>
+    <div id="countdown"></div>
+    <div id="gameOver" style="display: none;">
+        <h2 id="gameOverH">Game Over</h2>
+        <button id="reviewBtn" onclick="review()">Review</button>
+    </div>
+    <div class="loading" id="loading">Please wait...</div>
+    <script src="script.js"></script>
+</body>
+</html>
